@@ -14,11 +14,8 @@ baseurl: '' #change it according to your repository name
 
 #Profile information
 name: Xinliang Zhu
-<<<<<<< HEAD
 tagline: Health Truth Freedom & Love
-=======
 tagline: Care Healthcare
->>>>>>> ef96dc6175c0f43a75894f306a7c6f0acfe2df6a
 pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
