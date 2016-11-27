@@ -20,7 +20,7 @@ pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and pr
 #sidebar links
 email: xinliang.zhu@mavs.uta.edu
 website: xinliangzhu.github.io #do not add http://
-linkedin: xinliang-zhu
+#linkedin: xinliang-zhu
 github: xinliangzhu
 twitter: '@xinliangzhu08'
 
