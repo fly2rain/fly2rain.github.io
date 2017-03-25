@@ -4,6 +4,7 @@ title: Resume
 url: 'http://xinliangzhu.github.io'
 baseurl: '' #change it according to your repository name
 
+name: Feiyun Zhu
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -15,7 +16,7 @@ tagline: Health.Truth.Freedom.Love
 pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: xinliang.zhu@mavs.uta.edu
+email: fyzhu0915@mavs.uta.edu
 website: xinliangzhu.github.io/online-cv #do not add http://
 #linkedin: xinliang-zhu
 github: xinliangzhu
