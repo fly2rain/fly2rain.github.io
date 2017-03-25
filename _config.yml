@@ -1,6 +1,7 @@
 
-title: My Resume
-url: 'http://webjeda.com'
+
+title: Resume
+url: 'http://xinliangzhu.github.io'
 baseurl: '' #change it according to your repository name
 
 
@@ -10,17 +11,13 @@ baseurl: '' #change it according to your repository name
 #style: styles-4
 #style: styles-5
 #style: styles-6
-
-
-#Profile information
-name: Xinliang Zhu
-tagline: Bridging Computer Science with Biomedicine
-pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Health.Truth.Freedom.Love
+pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: xinliang.zhu@mavs.uta.edu
-website: xinliangzhu.github.io #do not add http://
-linkedin: xinliangzhu
+website: xinliangzhu.github.io/online-cv #do not add http://
+#linkedin: xinliang-zhu
 github: xinliangzhu
 twitter: '@xinliangzhu08'
 
