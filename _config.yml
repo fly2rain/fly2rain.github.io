@@ -1,7 +1,7 @@
 
 
 title: Resume
-url: 'http://xinliangzhu.github.io'
+url: 'https://fly2rain.github.io/'
 baseurl: '' #change it according to your repository name
 
 name: Feiyun Zhu
@@ -13,13 +13,13 @@ name: Feiyun Zhu
 #style: styles-5
 #style: styles-6
 tagline: Health.Truth.Freedom.Love
-pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile_fyzhu.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: fyzhu0915@mavs.uta.edu
-website: xinliangzhu.github.io/online-cv #do not add http://
+email: fyzhu0915@gmail.com
+website: https://fly2rain.github.io/ #do not add http://
 #linkedin: xinliang-zhu
-github: xinliangzhu
-twitter: '@xinliangzhu08'
+github: fly2rain
+# twitter: '@xinliangzhu08'
 
 #Update all the sections by editing the files inside _includes folder.
